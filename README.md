@@ -3,7 +3,7 @@
 - SnackBar.
 - Row, Column, ListView widgets.
 
-# Lo que más me costo trabajo.
+# Lo que más me costo trabajo
 - Darle la caracteristica de onTap para la aparición de la snackBar sin que se desorganizarán todos los padding de ListView.
 
 # Lo que aprendí
